@@ -48,7 +48,7 @@ We take appropriate security measures to protect your data stored in Firebase. H
 
 ## 6. Your Rights
 
-You can delete your data at any time by contacting us at [chutipun.b@gmail.com].
+You can delete your account by following this instruction [delete-account](https://vasmoa.github.io/privacy-policy/delete-account) or contacting us at [chutipun.b@gmail.com].
 
 ---
 
