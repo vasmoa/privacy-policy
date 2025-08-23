@@ -59,7 +59,15 @@ If you have any questions, contact us at:
 
 ---
 
-## 8. Changes to This Policy
+## 8. Disclaimer
+
+This app is intended for self-care and well-being purposes only.
+It is not a medical tool and should not be used for diagnosis or treatment.
+Please consult a qualified professional if you have health concerns.
+
+---
+
+## 9. Changes to This Policy
 
 We may update this Privacy Policy from time to time. Changes will be posted on this page.
 
